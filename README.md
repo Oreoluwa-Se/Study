@@ -1,2 +1,1 @@
-# Study
- Collection of practice materials
+# Collection of study materials from the web
